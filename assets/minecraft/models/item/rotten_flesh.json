@@ -1,5 +1,6 @@
 {
-	"credit": "Made with Blockbench",
+	"parent": "item/_parents/template_item",
+	"credit": "Wooferscoots",
 	"textures": {
 		"1": "item/rotten_flesh_faces",
 		"particle": "item/rotten_flesh"
@@ -17,42 +18,5 @@
 				"down": {"uv": [12, 0, 8, 8], "texture": "#1"}
 			}
 		}
-	],
-	"display": {
-		"thirdperson_righthand": {
-			"rotation": [75, 45, 0],
-			"translation": [0, 1.5, 2.75],
-			"scale": [0.5, 0.5, 0.5]
-		},
-		"thirdperson_lefthand": {
-			"rotation": [75, 45, 0],
-			"translation": [0, 1.5, 2.75],
-			"scale": [0.5, 0.5, 0.5]
-		},
-		"firstperson_righthand": {
-			"rotation": [0, -45, 0],
-			"translation": [0, 4, 0],
-			"scale": [0.5, 0.5, 0.5]
-		},
-		"firstperson_lefthand": {
-			"rotation": [0, -45, 0],
-			"translation": [0, 4, 0],
-			"scale": [0.5, 0.5, 0.5]
-		},
-		"ground": {
-			"translation": [0, 2, 0],
-			"scale": [0.5, 0.5, 0.5]
-		},
-		"gui": {
-			"rotation": [30, -45, 0],
-			"translation": [0, 5.25, 0]
-		},
-		"head": {
-			"translation": [0, 14.4, 0]
-		},
-		"fixed": {
-			"rotation": [-90, 0, 0],
-			"translation": [0, 0, -8]
-		}
-	}
+	]
 }
