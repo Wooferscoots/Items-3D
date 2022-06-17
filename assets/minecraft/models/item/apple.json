@@ -1,5 +1,6 @@
 {
-	"credit": "Made with Blockbench",
+	"parent": "item/_parents/template_3D_item",
+	"credit": "Wooferscoots",
 	"texture_size": [64, 64],
 	"textures": {
 		"0": "item/apple_faces",
