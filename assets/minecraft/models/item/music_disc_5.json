@@ -1,0 +1,9 @@
+{
+	"parent": "item/_parents/template_disc",
+	"credit": "Wooferscoots",
+	"texture_size": [64, 64],
+	"textures": {
+		"texture": "item/music_disc_5_faces",
+		"particle": "item/music_disc_5"
+	}
+}
